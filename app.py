@@ -38,7 +38,7 @@ def add_student():
 
         name = request.form["name"]
         age = request.form["age"]
-        course = r;equest.form["course"]
+        course = request.form["course"]
         phone = request.form["phone"]
 
         conn = sqlite3.connect("student.db")
