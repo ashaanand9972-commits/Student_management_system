@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+.env/
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# SQLite database files
+*.sqlite3
+student.db
+
+# JetBrains
+.idea/
+
+# Python bytecode cache
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Coverage
+.coverage
+htmlcov/
+coverage.xml
+
+# Local settings
+local_settings.py
