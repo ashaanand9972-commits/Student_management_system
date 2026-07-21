@@ -27,6 +27,7 @@ dist/
 # SQLite database files
 *.sqlite3
 student.db
+*.db
 
 # JetBrains
 .idea/
